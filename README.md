@@ -1,3 +1,3 @@
-# COVID-19 Tracker & Charts
+# COVID Tracker & Charts
 
-An app to browse COVID-19 data visually.
+An app to browse COVID data visually.
